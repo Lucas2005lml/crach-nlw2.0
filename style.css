@@ -1,0 +1,22 @@
+/* Cascating Stylesheet*/
+    html, 
+    body {
+        heigth: 100%
+    }
+    
+    body{
+      display: grid;
+      place-items: center;
+    
+      background:lightslategray;  
+    }
+    
+    h1{
+        font-size: 1.5rem; 
+    }
+
+    a{
+  margin-top: 0.25rem;
+  color:lightgray;    
+  text-decoration: none;
+    }
